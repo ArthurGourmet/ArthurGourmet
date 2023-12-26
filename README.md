@@ -44,7 +44,8 @@ Acompanhem como um pequeno gafanhoto se transforma em um mestre da programação
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+    <img  width="300" src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/c132b097-4f90-42ff-88b1-ff8c46462718">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ArthurGourmet}/count.svg" /></p> 
 <br>
 </div>
