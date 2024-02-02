@@ -20,6 +20,7 @@ Follow along as a little grasshopper transforms into a master of programming. We
 <br>
 
 <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurGourmet&bg_color=0d1117&color=6bb2ff&line=6bb2ff&point=6bb2ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-grap"/>
+
 ## Tecnologias(technologies)
 
 <div style="display: inline_block"><br/> 
