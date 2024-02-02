@@ -1,23 +1,26 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d53a3&height=120&section=header"/>
-<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=2d53a3&size=35&center=true&vCenter=true&width=1000&lines=THE+NUMBER+ONE+PLAYER;WAS+CONNECTED;Be+Welcome!"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3167a3&height=120&section=header"/>
+<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=3167a3&size=35&center=true&vCenter=true&width=1000&lines=THE+NUMBER+ONE+PLAYER;WAS+CONNECTED;Be+Welcome!"/>
 <img align="right" width="400" src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/35cda358-669e-4370-8c00-387d96bcb786">
 <br>
-# Ola eu sou Gourmet 🚀
+# Ola eu sou Gourmet (Hello, I am Gourmet)🚀
 <div>
 
 
 Acompanhem como um pequeno gafanhoto se transforma em um mestre da programação. Nos encontraremos em breve, neste épico capítulo da minha vida.
-## Habilidades
+<br>
+<br>
+Follow along as a little grasshopper transforms into a master of programming. We'll meet again soon, in this epic chapter of my life
+## Habilidades(skills)
 - 💻 Desenvolvedor Full Stack 
 - 🧑🏾‍🎓 Cursando: Análise de Desenvolvimento de Sistemas
 
-## contatos
+## contatos (contacts)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourmet-i-a9836220a/)
 </div>
 <br>
 
-
-## Tecnologias
+<img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurGourmet&bg_color=0d1117&color=6bb2ff&line=6bb2ff&point=6bb2ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-grap"/>
+## Tecnologias(technologies)
 
 <div style="display: inline_block"><br/> 
     <img align="center"alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -49,6 +52,6 @@ Acompanhem como um pequeno gafanhoto se transforma em um mestre da programação
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ArthurGourmet}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d53a3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3167a3&height=120&section=footer"/>
 
 
