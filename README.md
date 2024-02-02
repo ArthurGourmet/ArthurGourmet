@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d53a3&height=120&section=header"/>
+<img width=100% src="https://readme-typing-svg.herokuapp.com/?color=2d53a3&size=35&center=true&vCenter=true&width=1000&lines=THE+NUMBER+ONE+PLAYER;WAS+CONNECTED;Be+Welcome!+:%29"/>
 <img align="right" width="400" src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/35cda358-669e-4370-8c00-387d96bcb786">
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2d53a3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+THE+NUMBER+ONE+PLAYER;WAS+CONNECTED;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[[![Typing SVG]()](https://readme-typing-svg.herokuapp.com/?color=2d53a3&size=35&center=true&vCenter=true&width=1000&lines=THE+NUMBER+ONE+PLAYER;WAS+CONNECTED;Be+Welcome!+:%29)](https://git.io/typing-svg)
 # Ola eu sou Gourmet 🚀
 <div>
 
