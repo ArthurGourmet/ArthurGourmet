@@ -53,7 +53,7 @@ Follow along as a little grasshopper transforms into a master of programming. We
 <div align="center">
     <br>
 <br>
-    <p align="center">"Relax and enjoy the process"</p> 
+    <p align="center"><b>"Relax and enjoy the process"<b></p> 
  <img  width="300" src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/dcdba1fb-4750-48ba-857c-c4bf5513a17a">
  </div>
 
