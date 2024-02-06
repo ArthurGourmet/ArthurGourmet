@@ -3,6 +3,7 @@
 <img align="right" width="400" src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/35cda358-669e-4370-8c00-387d96bcb786">
 <br>
 
+
 # Ola eu sou Gourmet (Hello, I am Gourmet)🚀
 <div>
 
@@ -22,6 +23,7 @@ Follow along as a little grasshopper transforms into a master of programming. We
 
 <img width=100% src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurGourmet&bg_color=0d1117&color=6bb2ff&line=6bb2ff&point=6bb2ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-grap"/>
 
+
 ## Tecnologias(technologies)
 
 <div style="display: inline_block"><br/> 
@@ -35,6 +37,7 @@ Follow along as a little grasshopper transforms into a master of programming. We
 <br>
 <br>
 
+
 <div align="center">  
 <table >
   <tr>
@@ -47,6 +50,12 @@ Follow along as a little grasshopper transforms into a master of programming. We
   </tr>
 </table>
 </div>
+<div align="center">
+    <br>
+<br>
+    <p align="center">"Relax and enjoy the process"</p> 
+ <img  width="300" src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/dcdba1fb-4750-48ba-857c-c4bf5513a17a">
+ </div>
 
 <div align="center">
     <img  width="300" src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/c132b097-4f90-42ff-88b1-ff8c46462718">
