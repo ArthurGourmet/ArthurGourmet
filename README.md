@@ -14,7 +14,7 @@ Acompanhem como um pequeno gafanhoto se transforma em um mestre da programação
 Follow along as a little grasshopper transforms into a master of programming. We'll meet again soon, in this epic chapter of my life
 ## Habilidades(skills)
 - 💻 Desenvolvedor Full Stack 
-- 🧑🏾‍🎓 Cursando: Análise de Desenvolvimento de Sistemas
+- 🧑🏾‍🎓 Cursando
 
 ## contatos (contacts)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourmet-i-a9836220a/)
