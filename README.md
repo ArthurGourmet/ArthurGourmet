@@ -7,10 +7,14 @@
 <div>
 
 
-Acompanhem como um pequeno gafanhoto se transforma em um mestre da programação. Nos encontraremos em breve, neste épico capítulo da minha vida.
+I have a strong foundation in JavaScript, TypeScript, HTML, and CSS, with a focus on React, NextJS, and Redux for web development. My skills extend to Node, Express, and NoSQL for backend, with experience in frameworks such as Strapi and Storybook. I also have knowledge in WordPress, Elementor, and WooCommerce for website development. I am committed to continuous learning, aligning with job requirements, while maintaining a broad view of the business.
 <br>
 <br>
-Follow along as a little grasshopper transforms into a master of programming. We'll meet again soon, in this epic chapter of my life
+Tenho uma sólida base em JavaScript, TypeScript, HTML e CSS, com foco em React, NextJS e
+Redux para desenvolvimento web. Minhas habilidades se estendem a Node, Express e noSQL para
+backend, com experiência em frameworks como Strapi e Storybook. Também tenho conhecimento
+em WordPress, Elementor e WooCommerce para desenvolvimento de sites.busco por aprendizado
+constante, de acordo com as às necessidades do trabalho, mantendo uma visão ampla do negócio.
 ## Habilidades(skills)
 - 💻 Desenvolvedor Full Stack 
 - 🧑🏾‍🎓 Cursando
