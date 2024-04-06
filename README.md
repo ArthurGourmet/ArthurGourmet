@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c649c&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c7484&height=120&section=header"/>
 <img align="right" width="500"  src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/6961c408-44d9-4ecd-a750-8c6faae770d6">
 <br>
 
@@ -61,6 +61,6 @@ I have a strong foundation in JavaScript, TypeScript, HTML, and CSS, with a focu
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ArthurGourmet}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c649c&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c7484&height=120&section=footer"/>
 
 
