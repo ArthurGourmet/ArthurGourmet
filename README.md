@@ -56,6 +56,7 @@ Follow along as a little grasshopper transforms into a master of programming. We
  </div>
 
 <div align="center">
+    <p align="center">relax</p>
     <img  width="300" src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/c132b097-4f90-42ff-88b1-ff8c46462718">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ArthurGourmet}/count.svg" /></p> 
