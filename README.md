@@ -3,7 +3,7 @@
 <br>
 
 
-# Ola eu sou Gourmet (Hello, I am Gourmet)🚀
+#  Hello, I am Gourmet(Ola eu sou Gourmet)🚀
 
 <div>
 
