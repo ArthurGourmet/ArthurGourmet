@@ -12,7 +12,7 @@ I have a strong foundation in JavaScript, TypeScript, HTML, and CSS, with a focu
 <br>
 <br>
 ## Habilidades(skills)
-- 💻 Desenvolvedor Full Stack 
+- 💻 Full Stack Developer 
 - 🧑🏾‍🎓 Cursando
 
 ## contatos (contacts)
