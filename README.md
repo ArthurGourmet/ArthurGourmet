@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c7484&height=120&section=header"/>
-<img align="right" width="500"  src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/6961c408-44d9-4ecd-a750-8c6faae770d6">
+<img align="right" width="400"  src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/6961c408-44d9-4ecd-a750-8c6faae770d6">
 <br>
 
 
