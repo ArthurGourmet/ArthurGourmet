@@ -8,6 +8,7 @@
 
 
 
+
 <div>
 <br>
 As a Full Stack Developer, I have a strong passion for delving into the world of technology. Since 2020, I have been continuously seeking to expand my knowledge, adapting to the demands of work while maintaining a broad perspective on the business.
@@ -19,10 +20,7 @@ As a Full Stack Developer, I have a strong passion for delving into the world of
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
     
  ## Technologies(Tecnologias)
 
