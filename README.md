@@ -24,7 +24,7 @@ As a Full Stack Developer, I have a strong passion for delving into the world of
 <br>
 <br>
     
- ## Tecnologias(technologies)
+ ## Technologies(Tecnologias)
 
 <div style="display: inline_block"><br/> 
     <img align="center"alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -35,11 +35,11 @@ As a Full Stack Developer, I have a strong passion for delving into the world of
     
 </div>   
 
-## Habilidades(skills)
+## Skills(Habilidades)
 - 💻 Full Stack Developer 
-- 🧑🏾‍🎓 Cursando
+- 🧑🏾‍🎓 enrolled in college
 
-## contatos (contacts)
+## Contacts (Contatos)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourmet-i-a9836220a/)
 </div>
 <br>
