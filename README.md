@@ -71,7 +71,7 @@ As a Full Stack Developer, I have a strong passion for delving into the world of
 
 <div align="center">
     <p align="center">"There is nothing to fear."</p>
-    <img  width="300" src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/019bf24f-72d8-4167-81fd-01f6231093b8">
+    <img  width="300" src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/ee971925-d10d-413f-9815-aefdb8ceed7b">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ArthurGourmet}/count.svg" /></p> 
 <br>
