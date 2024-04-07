@@ -8,7 +8,7 @@
 <div>
 
 
-I have a strong foundation in JavaScript, TypeScript, HTML, and CSS, with a focus on React, NextJS, and Redux for web development. My skills extend to Node, Express, and NoSQL for backend, with experience in frameworks such as Strapi and Storybook. I also have knowledge in WordPress, Elementor, and WooCommerce for website development. I am committed to continuous learning, aligning with job requirements, while maintaining a broad view of the business.
+As a Full Stack Developer, I have a strong passion for delving into the world of technology. Since 2020, I have been continuously seeking to expand my knowledge, adapting to the demands of work while maintaining a broad perspective on the business.
 <br>
 <br>
 ## Habilidades(skills)
