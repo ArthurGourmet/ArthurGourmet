@@ -1,16 +1,27 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=038C7F&height=120&section=header"/>
+
+#            Hello, I am Gourmet(Ola eu sou Gourmet)🚀
+
 <img align="right" width="400"  src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/659e45c1-e71d-4f83-a900-618814409379">
 <br>
 
 
-#  Hello, I am Gourmet(Ola eu sou Gourmet)🚀
+
 
 <div>
-
-
+<br>
 As a Full Stack Developer, I have a strong passion for delving into the world of technology. Since 2020, I have been continuously seeking to expand my knowledge, adapting to the demands of work while maintaining a broad perspective on the business.
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+    
 ## Habilidades(skills)
 - 💻 Full Stack Developer 
 - 🧑🏾‍🎓 Cursando
