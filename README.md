@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c7484&height=120&section=header"/>
-<img align="right" width="400"  src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/6961c408-44d9-4ecd-a750-8c6faae770d6">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=038C7F&height=120&section=header"/>
+<img align="right" width="400"  src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/659e45c1-e71d-4f83-a900-618814409379">
 <br>
 
 
@@ -61,6 +61,6 @@ I have a strong foundation in JavaScript, TypeScript, HTML, and CSS, with a focu
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ArthurGourmet}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c7484&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=038C7F&height=120&section=footer"/>
 
 
