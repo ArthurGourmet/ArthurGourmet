@@ -38,7 +38,7 @@ As a Full Stack Developer, I have a strong passion for delving into the world of
 - 🧑🏾‍🎓 enrolled in college
 
 ## Contacts (Contatos)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourmet-i-a9836220a/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurcarneiroS/)
 </div>
 <br>
 
