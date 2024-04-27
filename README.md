@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=038C7F&height=120&section=header"/>
 
-#            Hello, I am Gourmet(Ola eu sou Gourmet)🚀
+#            Hello, I am Arthur(Ola eu sou Arthur)🚀
 
 <img align="right" width="400"  src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/659e45c1-e71d-4f83-a900-618814409379">
 <br>
