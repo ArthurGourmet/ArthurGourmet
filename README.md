@@ -2,7 +2,7 @@
 
 #            Hello, I am Arthur(Ola eu sou Arthur)🚀
 
-<img align="right" width="400"  src="https://github.com/arthurcarneiro1/ArthurGourmet/issues/5#issue-2229468847">
+<img align="right" width="400"  src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/659e45c1-e71d-4f83-a900-618814409379">
 <br>
 
 
@@ -67,9 +67,10 @@ I'm Arthur, with over two years of experience in development and project work. M
 
 <div align="center">
     <p align="center">"There is nothing to fear."</p>
-    <img  width="300" src="https://github.com/arthurcarneiro1/arthurcarneiro1/assets/123193887/6b4921c9-59bf-4444-b022-834dd0079350">
+    <img  width="300" src="https://github.com/ArthurGourmet/ArthurGourmet/assets/123193887/6b4921c9-59bf-4444-b022-834dd0079350">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://github.com/arthurcarneiro1/ArthurGourmet/issues/8#issue-2229803342" /></p> 
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{arthurcarneiro1}/count.svg" /></p> 
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=038C7F&height=120&section=footer"/>
