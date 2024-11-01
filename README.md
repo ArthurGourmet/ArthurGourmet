@@ -11,8 +11,7 @@
 
 <div>
 <br>
-As a Full Stack Developer, I have a strong passion for delving into the world of technology. Since 2020, I have been continuously seeking to expand my knowledge, adapting to the demands of work while maintaining a broad perspective on the business.
-<br>
+I'm Arthur, with over two years of experience in development and project work. My goal is to build a solid career in technology, constantly striving for growth and improvement. I am committed to adding significant value to any organization I work with, contributing through innovation and impactful results.
 <br>
 <br>
 <br>
