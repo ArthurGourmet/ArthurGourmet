@@ -2,7 +2,7 @@
 
 #            Hello, I am Arthur(Ola eu sou Arthur)🚀
 
-<img align="right" width="400"  src="https://github.com/arthurcarneiro1/arthurcarneiro1/assets/123193887/659e45c1-e71d-4f83-a900-618814409379">
+<img align="right" width="400"  src="https://github.com/arthurcarneiro1/ArthurGourmet/issues/5#issue-2229468847">
 <br>
 
 
@@ -51,10 +51,10 @@ I'm Arthur, with over two years of experience in development and project work. M
 <table >
   <tr>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArthurGourmet&show_icons=true&theme=radical" alt="Gourmet GitHub stats">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=arthurcarneiro1&show_icons=true&theme=radical" alt="Gourmet GitHub stats">
     </td>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGourmet&size_weight=0.5&count_weight=0.5" alt="Top Langs">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurcarneiro1&size_weight=0.5&count_weight=0.5" alt="Top Langs">
     </td>
   </tr>
 </table>
@@ -69,7 +69,7 @@ I'm Arthur, with over two years of experience in development and project work. M
     <p align="center">"There is nothing to fear."</p>
     <img  width="300" src="https://github.com/arthurcarneiro1/arthurcarneiro1/assets/123193887/6b4921c9-59bf-4444-b022-834dd0079350">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ArthurGourmet}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://github.com/arthurcarneiro1/ArthurGourmet/issues/8#issue-2229803342" /></p> 
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=038C7F&height=120&section=footer"/>
